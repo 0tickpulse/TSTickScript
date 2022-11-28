@@ -1,0 +1,6 @@
+print "hello there"
+var a 1
+var b 2
+# This is a commnet
+printvar a
+printvar b
